@@ -3,7 +3,7 @@
 Este contenedor está configurado y probado para correr un proyecto de Laravel y funcionar con:
  - Ubuntu 18.04
  - Nginx
- - php 7.2
+ - PHP 7.2
  - MySQL
 
 ## Requerimientos
